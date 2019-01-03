@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+c:\users\filip\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\filip\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(123): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\filip\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(77): warning C4101: "dolnaGranica": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\filip\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(142): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\filip\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(161): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ConsoleApplication1.vcxproj -> c:\users\filip\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
