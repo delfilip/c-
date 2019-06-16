@@ -1,0 +1,17 @@
+debug/main.o
+debug/mpik.o
+debug/Book.o
+debug/Customer.o
+debug/EmpikHelper.o
+debug/Item.o
+debug/MusicAlbum.o
+debug/Pen.o
+debug/dialog.o
+debug/customerpopupwindow.o
+debug/customerservicewindow.o
+debug/musicdialog.o
+debug/moc_mpik.o
+debug/moc_dialog.o
+debug/moc_customerpopupwindow.o
+debug/moc_customerservicewindow.o
+debug/moc_musicdialog.o

@@ -1,0 +1,17 @@
+release/main.o
+release/mpik.o
+release/Book.o
+release/Customer.o
+release/EmpikHelper.o
+release/Item.o
+release/MusicAlbum.o
+release/Pen.o
+release/dialog.o
+release/customerpopupwindow.o
+release/customerservicewindow.o
+release/musicdialog.o
+release/moc_mpik.o
+release/moc_dialog.o
+release/moc_customerpopupwindow.o
+release/moc_customerservicewindow.o
+release/moc_musicdialog.o
